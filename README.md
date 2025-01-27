@@ -33,7 +33,7 @@ https://github.com/LeonardoIshida
 The project utilizes data from SINAN (Sistema de Informação de Agravos e Notificação) to analyze dengue cases and develop predictive models for patient outcomes. Our analysis covers various aspects including demographic data, socioeconomic context, medical history, and public health indicators.
 
 ## Dataset Information
-The dataset includes:
+The dataset can be found in this [link](https://www.kaggle.com/datasets/henriquerezermosqur/dados-sus-sinan-dengue-2021-2024), and includes:
 - Patient demographic information
 - Clinical symptoms and diagnoses
 - Treatment details
