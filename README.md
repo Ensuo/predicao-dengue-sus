@@ -7,7 +7,7 @@
 <br>
 
 ## About The Project
-This project addresses one of Brazil's most significant public health challenges: dengue fever. With the rising number of cases in 2024, understanding and predicting patient outcomes has become increasingly crucial for healthcare planning and resource allocation.
+This project addresses one of Brazil's major public health challenges: dengue fever. Using machine learning techniques to analyze data from over 1.5 million cases reported in 2024, we developed predictive models to identify patients at risk of mortality. By examining factors such as patient demographics, clinical symptoms, geographic location, and seasonal patterns, this research aims to support healthcare resource allocation and improve patient outcomes in dengue cases across Brazil.
 
 ### Problem Statement
 Dengue fever, transmitted primarily by the Aedes aegypti mosquito, affects millions worldwide, with Brazil being particularly impacted due to its tropical climate and urban conditions. While many dengue infections are asymptomatic or mild, some cases can progress to severe forms like hemorrhagic fever and dengue shock syndrome, which can be fatal.
