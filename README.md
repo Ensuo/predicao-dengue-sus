@@ -1,4 +1,10 @@
-# Dengue Case Analysis and Death Prediction in Brazil (2024)
+<br />
+<div align="center">
+      <img src="https://pbs.twimg.com/media/GGugYsjWMAEwiCH.jpg" width=400 />
+  </a>
+  <h1 align="center">Dengue Case Analysis and Death Prediction in Brazil (2024)</h1>
+</div>
+<br>
 
 ## About The Project
 This project addresses one of Brazil's most significant public health challenges: dengue fever. With the rising number of cases in 2024, understanding and predicting patient outcomes has become increasingly crucial for healthcare planning and resource allocation.
@@ -51,13 +57,19 @@ All models achieved high accuracy, with MLP showing the best overall performance
 | MLP | 0.99 | 0.81 | 0.99 | 0.87 |
 
 ## Data Preprocessing
+### Cleaning Steps
 - Handled missing values using specific imputation methods based on SUS documentation
-- Removed columns with excessive missing data
+- Removed columns with excessive missing data (>70% missing)
+- Removed duplicate entries
+- Eliminated constant-value columns
+
+### Feature Engineering
 - Transformed categorical variables using Label Encoding
 - Normalized numerical features using Standard Scaler
 - Created new features:
-  - Season of the year
-  - Interior/Capital classification based on IBGE city codes
+  - Season of the year (based on notification date)
+  - Interior/Capital classification (based on IBGE city codes)
+  - Temporal features from dates
 
 ## Dependencies
 - Pandas: Data manipulation and analysis
