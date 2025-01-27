@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-      <img src="https://pbs.twimg.com/media/GGugYsjWMAEwiCH.jpg" width=400 />
+      <img src="https://media.istockphoto.com/id/1668413951/pt/vetorial/mosquito-biting-on-human-skin-stock-illustration.jpg?s=612x612&w=0&k=20&c=smwy0Gzyoqd3QNVvrV0dQU3cQug_ekSC1W5TguwPBM0=" width=400 />
   </a>
   <h1 align="center">Dengue Case Analysis and Death Prediction in Brazil (2024)</h1>
 </div>
